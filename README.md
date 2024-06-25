@@ -2,3 +2,4 @@
 
 Read and watched lectures of Andrew Ng on Neural Networks and How to improve Neural Networks . 
 
+Completed sequential model course from coursera.
