@@ -1,1 +1,2 @@
-# SOC_Speech-Emotion-Regocnition
+# SOC_Speech-Emotion-Recognition
+
